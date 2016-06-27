@@ -35,5 +35,5 @@ mpirun -np 4 ./install/bin/caffe train --solver=<Your Solver File> [--weights=<P
 
 We are using the [CRAFT Objects from Images](http://arxiv.org/abs/1604.03239) for generating proposals.
 
-* 13val1 + 14val download: link(http://pan.baidu.com/s/1csmEkA)
-* 13train_positive download: link(http://pan.baidu.com/s/1nv4b6lj)
+* 13val1 + 14val download: [link](http://pan.baidu.com/s/1csmEkA)
+* 13train_positive download: [link](http://pan.baidu.com/s/1nv4b6lj)
