@@ -2996,7 +2996,7 @@ layer {
   top: "inception_4d/pool_proj_bn"
 }
 layer {
-  name: "inception_4d/output"
+  name: "inception_4d/output_image"
   type: "Concat"
   bottom: "inception_4d/1x1_bn"
   bottom: "inception_4d/3x3_bn"
