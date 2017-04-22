@@ -1,3 +1,5 @@
+### This code base is no longer maintained and exists as a historical artifact to supplement our CVPR 2016 paper. For more recent work, please see [craftGBD](https://github.com/craftGBD/craftGBD).
+
 # Factors in Finetuning Deep Model for object detection
 
 by Wanli Ouyang, Xiaogang Wang, Cong Zhang, Xiaokang Yang
